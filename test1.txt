@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 02CA-88DA
+
+ Directory of C:\Users\Lenovo\Desktop\My First Project
+
+02/27/2020  01:20 PM    <DIR>          .
+02/27/2020  01:20 PM    <DIR>          ..
+02/27/2020  01:20 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  87,771,316,224 bytes free
